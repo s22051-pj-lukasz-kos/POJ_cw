@@ -1,22 +1,26 @@
 package com.company;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        String sentence = in.nextLine().toLowerCase().replace(" ", "");
-        char[] sentenceChar = sentence.toCharArray();
+        String sentence = in.nextLine().toLowerCase();
 
         boolean flag = true;
-        for (char ch:sentenceChar) {
-            if (ch < 'a' || ch > 'z') {
+        for (char i = 'a'; i <= 'z'; i++) {
+            if (sentence.indexOf(i) == -1) {
                 flag = false;
                 break;
             }
         }
-        System.out.println(flag);
+
+        if (flag) {
+            System.out.println("true");
+        } else {
+            System.out.println("false");
+        }
     }
 }

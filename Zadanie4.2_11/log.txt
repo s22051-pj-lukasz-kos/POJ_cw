@@ -1,0 +1,24 @@
+Fri May 14 20:55:07 CEST 2021
+warning: Włączył się alarm!
+
+Fri May 14 20:55:07 CEST 2021
+warning: Kraty opadły
+
+Fri May 14 20:55:07 CEST 2021
+warning: Nadciąga ochrona
+
+Fri May 14 20:55:07 CEST 2021
+warning: Spuszczono psy!
+
+Fri May 14 20:55:07 CEST 2021
+report: Wyłączono alarm
+
+Fri May 14 20:55:07 CEST 2021
+report: Kraty uniosły się
+
+Fri May 14 20:55:07 CEST 2021
+report: Ochrona się wycofuje
+
+Fri May 14 20:55:07 CEST 2021
+report: Psy wyłapał hycel
+
